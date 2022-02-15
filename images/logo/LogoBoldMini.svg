@@ -43,7 +43,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     width="278.31842mm"
+     width="59.60809mm"
      scale-x="2">
     <sodipodi:guide
        position="78.669724,29.454823"
@@ -80,126 +80,66 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:'Big Shoulders Display';-inkscape-font-specification:'Big Shoulders Display, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;stroke-width:0.264583"
          x="80.735245"
          y="111.73814">Softwareologists</tspan></text>
-    <ellipse
-       style="font-variation-settings:'wght' 300;fill:none;stroke:#000000;stroke-width:2.95533;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <path
        id="path2698"
-       cx="51.064175"
-       cy="99.229355"
-       rx="24.611008"
-       ry="24.644501"
-       inkscape:export-filename="H:\My Drive\Logo\LogoBoldSmall.png"
-       inkscape:export-xdpi="299.92999"
-       inkscape:export-ydpi="299.92999" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.2416px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.260643"
-       x="34.529018"
-       y="112.45872"
-       id="text4975"
+       style="font-variation-settings:'wght' 300;fill:none;stroke:#000000;stroke-width:2.95533"
+       d="M 75.675182,99.229355 A 24.611008,24.644501 0 0 1 51.064175,123.87386 24.611008,24.644501 0 0 1 26.453167,99.229355 24.611008,24.644501 0 0 1 51.064175,74.584854 24.611008,24.644501 0 0 1 75.675182,99.229355 Z" />
+    <g
+       aria-label="&lt;/&gt;"
        transform="scale(0.99932026,1.0006802)"
-       inkscape:export-filename="H:\My Drive\Logo\LogoBoldSmall.png"
-       inkscape:export-xdpi="299.92999"
-       inkscape:export-ydpi="299.92999"><tspan
-         sodipodi:role="line"
-         id="tspan5965"
-         x="34.529018"
-         y="112.45872"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.2416px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.260643">&lt;/&gt;</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.2416px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.260643"
-       x="45.216709"
-       y="93.279709"
-       id="text7443"
+       id="text4975"
+       style="font-weight:bold;font-size:22.2416px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';stroke-width:0.260643">
+      <path
+         d="m 45.516369,101.31568 v 1.46794 q 0,0.5338 -0.422591,0.64501 l -6.694721,1.75708 6.694721,1.75709 q 0.422591,0.089 0.422591,0.64501 v 1.4457 q 0,0.48932 -0.533799,0.33362 l -8.318358,-2.69123 q -0.600523,-0.20017 -0.600523,-0.88966 v -1.20105 q 0,-0.68949 0.600523,-0.88966 l 8.318358,-2.69124 q 0.533799,-0.20017 0.533799,0.31139 z"
+         id="path1214" />
+      <path
+         d="m 49.808991,112.45872 h -1.712603 q -0.533798,0 -0.355865,-0.46708 0.711731,-1.82381 2.535542,-6.67248 1.823811,-4.84867 2.535542,-6.694718 0.200175,-0.467073 0.600524,-0.467073 h 1.712603 q 0.533798,0 0.355865,0.467073 l -5.071084,13.367198 q -0.177933,0.46708 -0.600524,0.46708 z"
+         id="path1216" />
+      <path
+         d="m 57.726967,102.78362 v -1.46794 q 0,-0.51156 0.533799,-0.31139 l 8.318358,2.69124 q 0.600523,0.20017 0.600523,0.88966 v 1.20105 q 0,0.68949 -0.600523,0.88966 l -8.318358,2.69123 q -0.533799,0.1557 -0.533799,-0.33362 v -1.4457 q 0,-0.55604 0.422591,-0.64501 l 6.694721,-1.75709 -6.694721,-1.75708 q -0.422591,-0.11121 -0.422591,-0.64501 z"
+         id="path1218" />
+    </g>
+    <g
+       aria-label="o"
        transform="scale(0.99932025,1.0006802)"
-       inkscape:export-filename="H:\My Drive\Logo\LogoBoldSmall.png"
-       inkscape:export-xdpi="299.92999"
-       inkscape:export-ydpi="299.92999"><tspan
-         sodipodi:role="line"
-         id="tspan7441"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.2416px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.260643"
-         x="45.216709"
-         y="93.279709">o</tspan></text>
-    <rect
-       style="font-variation-settings:'wght' 500;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="text7443"
+       style="font-weight:600;font-size:22.2416px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Semi-Bold';stroke-width:0.260643">
+      <path
+         d="m 51.800223,93.279709 h -1.957261 q -1.645878,0 -2.557784,-0.911906 -0.889664,-0.911905 -0.889664,-2.535542 v -4.44832 q 0,-1.645879 0.889664,-2.535543 0.911906,-0.911905 2.557784,-0.911905 h 1.957261 q 1.623637,0 2.535542,0.911905 0.934147,0.889664 0.934147,2.535543 v 4.44832 q 0,1.623637 -0.934147,2.535542 -0.911905,0.911906 -2.535542,0.911906 z m -1.645879,-1.890536 h 1.356738 q 1.601395,0 1.601395,-1.623637 v -4.31487 q 0,-1.623637 -1.601395,-1.623637 h -1.356738 q -0.84518,0 -1.223288,0.400349 -0.378107,0.378107 -0.378107,1.223288 v 4.31487 q 0,0.845181 0.378107,1.24553 0.378108,0.378107 1.223288,0.378107 z"
+         id="path1221" />
+    </g>
+    <path
        id="rect8415-2-2-6-5-5-7"
-       width="8.1309958"
-       height="8.1309986"
-       x="65.087502"
-       y="112.71251"
-       inkscape:export-filename="H:\My Drive\Logo\LogoBoldSmall.png"
-       inkscape:export-xdpi="299.92999"
-       inkscape:export-ydpi="299.92999" />
-    <rect
-       style="font-variation-settings:'wght' 500;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 500;stroke:#ffffff;stroke-width:3"
+       d="m 65.087502,112.71251 h 8.130995 v 8.131 h -8.130995 z" />
+    <path
        id="rect8415-2-2-6-5-5-7-4"
-       width="8.1309958"
-       height="8.1309986"
-       x="47.431503"
-       y="120.19192"
-       inkscape:export-filename="H:\My Drive\Logo\LogoBoldSmall.png"
-       inkscape:export-xdpi="299.92999"
-       inkscape:export-ydpi="299.92999" />
-    <rect
-       style="font-variation-settings:'wght' 500;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 500;stroke:#ffffff;stroke-width:3"
+       d="m 47.431503,120.19192 h 8.130996 v 8.131 h -8.130996 z" />
+    <path
        id="rect8415-2-2-6-5-5-7-4-0"
-       width="8.1309958"
-       height="8.1309986"
-       x="29.104166"
-       y="112.78357"
-       inkscape:export-filename="H:\My Drive\Logo\LogoBoldSmall.png"
-       inkscape:export-xdpi="299.92999"
-       inkscape:export-ydpi="299.92999" />
-    <rect
-       style="font-variation-settings:'wght' 500;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 500;stroke:#ffffff;stroke-width:3"
+       d="m 29.104166,112.78357 h 8.130996 v 8.131 h -8.130996 z" />
+    <path
        id="rect8415-2-2-6-5-5-7-6"
-       width="8.1309958"
-       height="8.1309986"
-       x="71.508583"
-       y="95.056496"
-       inkscape:export-filename="H:\My Drive\Logo\LogoBoldFull.png"
-       inkscape:export-xdpi="299.92999"
-       inkscape:export-ydpi="299.92999" />
-    <rect
-       style="font-variation-settings:'wght' 500;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 500;stroke:#ffffff;stroke-width:3"
+       d="m 71.508583,95.056496 h 8.130996 v 8.130994 h -8.130996 z" />
+    <path
        id="rect8415-2-2-6-5-5-7-4-1"
-       width="8.1309958"
-       height="8.1309986"
-       x="22.825253"
-       y="95.321083"
-       inkscape:export-filename="H:\My Drive\Logo\LogoBoldSmall.png"
-       inkscape:export-xdpi="299.92999"
-       inkscape:export-ydpi="299.92999" />
-    <rect
-       style="font-variation-settings:'wght' 500;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 500;stroke:#ffffff;stroke-width:3"
+       d="m 22.825253,95.321083 h 8.130995 v 8.130997 h -8.130995 z" />
+    <path
        id="rect8415-2-2-6-5-5-7-4-9"
-       width="8.1309958"
-       height="8.1309986"
-       x="28.646086"
-       y="77.858582"
-       inkscape:export-filename="H:\My Drive\Logo\LogoBoldSmall.png"
-       inkscape:export-xdpi="299.92999"
-       inkscape:export-ydpi="299.92999" />
-    <rect
-       style="font-variation-settings:'wght' 500;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 500;stroke:#ffffff;stroke-width:3"
+       d="m 28.646086,77.858582 h 8.130995 v 8.130998 h -8.130995 z" />
+    <path
        id="rect8415-2-2-6-5-5-7-4-8"
-       width="8.1309958"
-       height="8.1309986"
-       x="47.696083"
-       y="70.714828"
-       inkscape:export-filename="H:\My Drive\Logo\LogoBoldSmall.png"
-       inkscape:export-xdpi="299.92999"
-       inkscape:export-ydpi="299.92999" />
-    <rect
-       style="font-variation-settings:'wght' 500;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 500;stroke:#ffffff;stroke-width:3"
+       d="m 47.696083,70.714828 h 8.130996 v 8.130999 h -8.130996 z" />
+    <path
        id="rect8415-2-2-6-5-5-7-4-04"
-       width="8.1309958"
-       height="8.1309986"
-       x="65.158585"
-       y="77.787498"
-       inkscape:export-filename="H:\My Drive\Logo\LogoBoldSmall.png"
-       inkscape:export-xdpi="299.92999"
-       inkscape:export-ydpi="299.92999" />
+       style="font-variation-settings:'wght' 500;stroke:#ffffff;stroke-width:3"
+       d="m 65.158585,77.787498 h 8.130995 v 8.130999 h -8.130995 z" />
   </g>
   <metadata
      id="metadata9491">
