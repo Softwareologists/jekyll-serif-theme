@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="254.99899mm"
-   height="53.098mm"
-   viewBox="0 0 254.99899 53.098"
+   width="963.77722"
+   height="200.68681"
+   viewBox="0 0 254.99939 53.098388"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -30,26 +30,31 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.418238"
-     inkscape:cx="306.71862"
-     inkscape:cy="380.04905"
+     inkscape:zoom="2.0056914"
+     inkscape:cx="392.88197"
+     inkscape:cy="213.89133"
      inkscape:window-width="2880"
      inkscape:window-height="1514"
      inkscape:window-x="2869"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     width="254.999mm">
+     width="254.999mm"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <sodipodi:guide
-       position="52.142902,96.013193"
+       position="52.142902,96.013579"
        orientation="1,0"
        id="guide5023" />
     <sodipodi:guide
-       position="36.540809,122.40759"
+       position="36.540809,122.40798"
        orientation="1,0"
        id="guide5025" />
     <sodipodi:guide
-       position="66.61772,112.11812"
+       position="66.61772,112.11851"
        orientation="1,0"
        id="guide5027" />
   </sodipodi:namedview>

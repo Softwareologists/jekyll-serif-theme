@@ -3,12 +3,12 @@ permalink: pretty
 title: 'Softwareologists'
 
 logo:
-  mobile: "images/logo/LogoSmall.svg"
-  mobile_height: "32px"
-  mobile_width: "32px"
-  desktop: "images/logo/LogoFull.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  mobile: "images/logo/LogoBoldMini.svg"
+  mobile_height: "55px"
+  mobile_width: "55px"
+  desktop: "images/logo/LogoBold.svg"
+  desktop_height: "55px"
+  desktop_width: "250px"
 
 collections:
   services:

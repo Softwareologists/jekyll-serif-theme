@@ -1,13 +1,13 @@
 ---
 title: Softwareologists
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: One stop destination for all kinds of Software consultation.
 intro_image: "images/illustrations/pixeltrue-web-development.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Softwareologists - Your Software Specialists.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We provide free consulation on your software needs. And if we have any special expertise, we can work with you in creating the perfect software solution to your problems.
