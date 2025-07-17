@@ -1,14 +1,14 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Softwareologists'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  mobile_height: "32px"
-  mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  mobile: "images/logo/ShortLogo.png"
+  mobile_height: "55px"
+  mobile_width: "55px"
+  desktop: "images/logo/FullLogo.png"
+  desktop_height: "55px"
+  desktop_width: "250px"
 
 home: 
   limit_services: 6
